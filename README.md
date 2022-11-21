@@ -31,7 +31,7 @@ These instructons refer to Sylgard 184 elastomer. If you are using different sil
 
 1. Design and print your chip mould. Usually it is a good idea to make a few chips at once, as some may fail.
 
-2. Print a rake (used in step X). A sample is provided - you may have to adjust the size of the teeth depening on your printer and channel structure.
+2. Print a rake (used in step 7). A sample is provided - you may have to adjust the size of the teeth depening on your printer and channel structure.
 
 3. Pour together the two components of the silicone kit using fine scales to get a ratio of 1:9. Typically, about 20g of mixture is a sufficient amount for a small batch of microfluidic chips. Mix the mixture well using a spoon or spatula for at least two minutes.
 
