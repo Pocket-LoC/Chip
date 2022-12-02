@@ -5,6 +5,8 @@ Lab-on-chip (LoC) technology is becoming increasingly relevant, especially in th
 Pocket LoC can be assembled with standard equipment found in a typcial engineering lab (such as a maker space or FabLab). Once assembled, Pocket LoC is fully portable and only needs a PC to operate.
 
 ## Microfluidic Chip
+<img align = "right" src="https://user-images.githubusercontent.com/42568983/205295270-1c095b07-2bd6-400f-94e1-f13bbbd8ab20.jpg" width="40%" />
+
 This repository contains instructions and templates for making your own microfluidic chip. Principally, Pocket LoC can work with any transparent chip that fits the sensor dimensions. However, we would like to provide some guidance on how to get started.
 
 ### Materials
