@@ -29,20 +29,43 @@ Your channel structure should have a straight section, paralell to the chips lon
 ### Manufacture
 These instructons refer to Sylgard 184 elastomer. If you are using different silicone, start with the mixing and curing parameters suggested by the manufacturer and adjust the mix ration and curing time depending on your results.
 
-1. Design and print your chip mould. Usually it is a good idea to make a few chips at once, as some may fail.
+1. Design and print your chip mould and a rake (used in step 6). Usually it is a good idea to make a few chips at once, as some may fail. Samples for both the rake and the chip are provided - you may have to adjust the size of the teeth of the rake depening on your printer and channel structure.
+      <p float="left">
+        <img src="https://github.com/Pocket-LoC/Chip/blob/main/Photos/00%20printed%20parts.jpg" width="22%" />
+      </p>
+2. Pour together the two components of the silicone kit using fine scales to get a ratio of 1:10. Typically, about 15g of mixture is a sufficient amount for one microfluidic chip. Mix the mixture well using a spoon or spatula for at least two minutes.
+      <p float="left">
+        <img src="https://github.com/Pocket-LoC/Chip/blob/main/Photos/01%20elastomer%20kit.jpg" width="22%" />
+        <img src="https://github.com/Pocket-LoC/Chip/blob/main/Photos/02%20mix.jpg" width="22%" />
+        <img src="https://github.com/Pocket-LoC/Chip/blob/main/Photos/03%20stirred.jpg" width="22%" />
+      </p>
 
-2. Print a rake (used in step 7). A sample is provided - you may have to adjust the size of the teeth depening on your printer and channel structure.
+3. Place the silicone mixture in the vacuum chamber and evacuate the air to remove bubbles from the mixture. Wait for at least two minutes before ventilating the chamber again. Repeat approx. 10-20 times until all visible bubbles have been removed.
+      <p float="left">
+        <img src="https://github.com/Pocket-LoC/Chip/blob/main/Photos/04%20chamber.jpg" width="22%" align='center' />
+        <img src="https://github.com/Pocket-LoC/Chip/blob/main/Photos/05%20chamber%20vacuum.jpg" width="22%" align='center' />
+        <img src="https://github.com/Pocket-LoC/Chip/blob/main/Photos/06%20chamber%20air.jpg" width="22%" align='center' />
+        <img src="https://github.com/Pocket-LoC/Chip/blob/main/Photos/07%20degassed.jpg" width="22%" align='center' />
+      </p>
 
-3. Pour together the two components of the silicone kit using fine scales to get a ratio of 1:9. Typically, about 20g of mixture is a sufficient amount for a small batch of microfluidic chips. Mix the mixture well using a spoon or spatula for at least two minutes.
+4. Pour the degassed silicone mixture into the mould, filling it to the brim. Then place it on a heat plate or in a lab oven to cure at 100°C for 60 minutes.
+      <p float="left">
+        <img src="https://github.com/Pocket-LoC/Chip/blob/main/Photos/08%20poured.jpg" width="22%" />
+      </p>
 
-4. Place the silicone mixture in the vacuum chamber and evacuate the air to remove bubbles from the mixture. Wait for at least two minutes before ventilating the chamber again. Repeat approx. 10-20 times until all visible bubbles have been removed.
+5. Carefully pull the chip structure out of the mould. Start by lifting it at the edge with a thin screwdriver. You will see a fine grid caused by the 3D-print on the bottom of the chip. Remove any unwanted silicone residue. Depending on your chip structure and size it may be easier to break apart the mould.
+      <p float="left">
+        <img src="https://github.com/Pocket-LoC/Chip/blob/main/Photos/09%20remove.jpg" width="22%" />
+        <img src="https://github.com/Pocket-LoC/Chip/blob/main/Photos/10%20cured%20top.jpg" width="22%" />
+      </p>
 
-5. Pour the degassed silicone mixture into the mould, filling it to the brim. Then place it on a heat plate or in a lab oven to cure at 100°C for 60 minutes.
+6. Use the rake to spread a thin and consistent layer of silicone on a clean microscope slide. Then carefully place the cured silicone chip on top and press lightly. You can use the grid structure as a visual aid: Ideally, it should only just not be visible any more. Adjust the size of the rake if the layer is too thin (chip will not attach properly) or too thick (your chip will be clogged once cured).
+      <p float="left">
+        <img src="https://github.com/Pocket-LoC/Chip/blob/main/Photos/20%20components%20glass.jpg" width="22%" />
+        <img src="https://github.com/Pocket-LoC/Chip/blob/main/Photos/21%20layer%20spread.jpg" width="22%" />
+        <img src="https://github.com/Pocket-LoC/Chip/blob/main/Photos/22%20complete.jpg" width="22%" />
+      </p>
 
-6. Carefully pull the chip structure out of the mould. Start by lifting it at the edge with a thin screwdriver. You will see a fine grid caused by the 3D-print on the bottom of the chip. Remove any unwanted silicone residue.
+7. Cure the chip for another 60 minutes at 100°C.
 
-7. Use the rake to spread a thin and consistent layer of silicone on a clean microscope slide. Then carefully place the cured silicone chip on top and press lightly. You can use the grid structure as a visual aid: Ideally, it should only just not be visible any more. Adjust the size of the rake if the layer is too thin (chip will not attach properly) or too thick (your chip will be clogged once cured).
-
-8. Cure the chip for another 60 minutes at 100°C.
-
-9. Your microfluidic chip is now ready to go. You may find some fine tuning of the manufacturing procedure for your needs and tools may improve the chip performance (e.g. reproducibility of droplet generation or pressure tolerance).
+8. Your microfluidic chip is now ready to go. You may find some fine tuning of the manufacturing procedure for your needs and tools may improve the chip performance (e.g. reproducibility of droplet generation or pressure tolerance).
