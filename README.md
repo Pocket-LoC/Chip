@@ -2,7 +2,7 @@
 <img align = "right" src="https://user-images.githubusercontent.com/42568983/202521498-0bb95a05-1dd4-4db9-ad12-fc51b9aba1ed.jpg" width="40%" /> 
 Lab-on-chip (LoC) technology is becoming increasingly relevant, especially in the field of medicine. However, often LoC setups rely on complex lab equipment for operation. The aim of this project is to create an affordable and portable LoC setup as a proof-of-concept for truly pocket-sized LoC - the Pocket LoC.
 
-Pocket LoC can be assembled with standard equipment found in a typcial engineering lab (such as a maker space or FabLab). Once assembled, Pocket LoC is fully portable and only needs a PC to operate.
+Pocket LoC can be assembled with standard equipment found in a typical engineering lab (such as a maker space or FabLab). Once assembled, Pocket LoC is fully portable and only needs a PC to operate.
 
 ## Microfluidic Chip
 <img align = "right" src="https://user-images.githubusercontent.com/42568983/205295270-1c095b07-2bd6-400f-94e1-f13bbbd8ab20.jpg" width="40%" />
@@ -35,7 +35,7 @@ These instructons refer to Sylgard 184 elastomer. If you are using different sil
       <p float="left">
         <img src="https://github.com/Pocket-LoC/Chip/blob/main/Photos/00%20printed%20parts.jpg" width="22%" />
       </p>
-2. Pour together the two components of the silicone kit using fine scales to get a ratio of 1:10. Typically, about 15g of mixture is a sufficient amount for one microfluidic chip. Mix the mixture well using a spoon or spatula for at least two minutes.
+2. Pour together the two components of the silicone kit using fine scales to get a ratio of 1:10. Typically, about 15g of mixture is a sufficient amount for one microfluidic chip. Mix the components well using a spoon or spatula for at least two minutes.
       <p float="left">
         <img src="https://github.com/Pocket-LoC/Chip/blob/main/Photos/01%20elastomer%20kit.jpg" width="22%" />
         <img src="https://github.com/Pocket-LoC/Chip/blob/main/Photos/02%20mix.jpg" width="22%" />
